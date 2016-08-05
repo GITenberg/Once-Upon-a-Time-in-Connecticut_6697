@@ -1,0 +1,27 @@
+_repo: Once-Upon-a-Time-in-Connecticut_6697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Newton, Caroline Clifford
+    deathdate: 1936
+    gutenberg_agent_id: '2160'
+    url: http://www.gutenberg.org/2009/agents/2160
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6697'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Connecticut -- History'
+- GITenberg
+tableOfContents: The House of hope and the Charter oak -- Two Indian warriors -- A
+  harbor for ships -- Three judges -- The fort on the river -- The frogs of Windham
+  -- Old Wolf Putnam -- The bullet-makers of Litchfield -- Newgate prison -- The dark
+  day -- A French camp in Connecticut -- Nathan Hale.
+title: Once Upon a Time in Connecticut
+url: http://www.gutenberg.org/ebooks/6697
